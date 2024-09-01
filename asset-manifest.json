@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Start-Framework-react/static/css/main.aeb33349.css",
+    "main.js": "/Start-Framework-react/static/js/main.bb26bfff.js",
+    "static/media/poert1.png": "/Start-Framework-react/static/media/poert1.4417330275f78faa31c3.png",
+    "static/media/port3.png": "/Start-Framework-react/static/media/port3.494a4a914b5471b41f3e.png",
+    "static/media/port2.png": "/Start-Framework-react/static/media/port2.6554473016d32b343f02.png",
+    "static/media/avataaars.svg": "/Start-Framework-react/static/media/avataaars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
+    "index.html": "/Start-Framework-react/index.html",
+    "main.aeb33349.css.map": "/Start-Framework-react/static/css/main.aeb33349.css.map",
+    "main.bb26bfff.js.map": "/Start-Framework-react/static/js/main.bb26bfff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aeb33349.css",
+    "static/js/main.bb26bfff.js"
+  ]
+}
